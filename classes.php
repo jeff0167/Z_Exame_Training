@@ -12,7 +12,7 @@ class Person{
         $this->setName($name); 
         $this->age = $age;     // now this line lacks cohesion to the constructor
   
-    } 
+    }
 
     // reasons for getter and setter
     // can add calculation for another value like below, automatically by having set be a function and not a simple varialble
