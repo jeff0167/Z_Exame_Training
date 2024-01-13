@@ -20,7 +20,7 @@ class Person{
         cw($this->name . " is getting destroyed");
     }
 
-     // reasons for getter and setter
+    // reasons for getter and setter
     // can add calculation for another value like below, automatically by having set be a function and not a simple varialble
     // can enforce rules such as only allowing certain values like, only positive number values 
     // you can add logging that helps with debugging
